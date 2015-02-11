@@ -98,19 +98,19 @@ msgstr[2] ""
 
 #, python-format
 msgid ""
-"%(n)d item has been removed from your cart because it is no longer "
-"available"
+"%(n)d позиция удалена из вашей корзины, так как больше "
+"недоступна"
 msgid_plural ""
-"%(n)d items have been removed from your cart because they are no longer "
-"available"
+"%(n)d позиции удалены из вашей корзины, так как больше "
+"недоступны"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
 #, python-format
-msgid "%(n)d new item For Sale in your Wantlist"
-msgid_plural "%(n)d new items For Sale in your Wantlist"
-msgstr[0] "%(n)d новых предметов для покупки из вашего списка желаний"
+msgid "%(n)d новая позиция для продажи из вашего списка желаний"
+msgid_plural "%(n)d новых позиций для продажи из вашего списка желаний"
+msgstr[0] "%(n)d новых позиций для покупки из вашего списка желаний"
 msgstr[1] ""
 msgstr[2] ""
 
@@ -144,8 +144,8 @@ msgstr[1] ""
 msgstr[2] ""
 
 #, python-format
-msgid "%(n)s message has been ignored"
-msgid_plural "%(n)s messages have been ignored"
+msgid "%(n)s сообщений проигнорировано"
+msgid_plural "%(n)s сообщений проигнорировано"
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
@@ -11230,7 +11230,7 @@ msgstr ""
 msgid "want"
 msgstr ""
 
-msgid "wantlist"
+msgid "спсиок желаний"
 msgstr ""
 
 msgid "wants"
@@ -11242,15 +11242,15 @@ msgstr ""
 msgid "within"
 msgstr ""
 
-msgid "write a review"
+msgid "написать отзыв"
 msgstr ""
 
 msgid "wrote:"
 msgstr ""
 
-msgid "your profile page"
+msgid "страница вашего профиля"
 msgstr ""
 
-msgid "your search query."
+msgid "ваш поисковый запрос."
 msgstr ""
 
